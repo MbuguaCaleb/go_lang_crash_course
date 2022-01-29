@@ -1,0 +1,6 @@
+Bill breakdown :
+Fish:                     ...$300  
+Rice:                     ...$30  
+salad:                    ...$200  
+tip:                      ...$100
+total:                    ...$630.00
